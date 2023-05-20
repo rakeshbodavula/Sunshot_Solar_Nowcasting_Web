@@ -1,1 +1,5 @@
-flask PIL numpy joblib flask_cors
+flask
+PIL
+numpy
+joblib
+flask_cors
