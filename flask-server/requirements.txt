@@ -3,3 +3,4 @@ pillow
 numpy
 joblib
 flask_cors
+scikit-learn
