@@ -1,5 +1,5 @@
 flask
-PIL
+pillow
 numpy
 joblib
 flask_cors
