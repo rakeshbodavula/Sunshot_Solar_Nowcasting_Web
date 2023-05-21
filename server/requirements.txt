@@ -1,6 +1,5 @@
-Flask
+Django
 Pillow
-numpy
-joblib
-flask-cors
-waitress
+django-tables2
+django-crispy-forms
+scikit-learn
