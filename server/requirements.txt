@@ -1,5 +1,0 @@
-Django
-Pillow
-django-tables2
-django-crispy-forms
-scikit-learn
